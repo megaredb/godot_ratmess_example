@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/UI_Quirky.wav-925412e6944167e6616b3d7d7634b659.sample"
+
+[deps]
+
+source_file="res://Resources/Sounds/SFX/UI/UI_Quirky.wav"
+dest_files=[ "res://.import/UI_Quirky.wav-925412e6944167e6616b3d7d7634b659.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
